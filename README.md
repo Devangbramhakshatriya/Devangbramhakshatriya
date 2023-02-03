@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Devangbramhakshatriya.github.io](Devangbramhakshatriya.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://devangbramhakshatriya.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React And Chakra-UI**
 
