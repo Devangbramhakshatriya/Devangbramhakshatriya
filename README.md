@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devang Bramhakshatriya</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-
-
+  <div align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></div>
+<div>
+  <div>
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://devangbramhakshatriya.github.io/)
@@ -12,6 +13,12 @@
 - 📫 How to reach me **devangbramhakshtriya@gmail.com**
 
 - 📄 Know about my experiences [Resum](https://drive.google.com/file/d/1qpVsjmoE0wzYBLxoXSD1aBJtNVR1e7kU/view?usp=sharing)
+  </div>
+ 
+</div> 
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
