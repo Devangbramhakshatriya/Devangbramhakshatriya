@@ -4,7 +4,6 @@
   <div align="center"><img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/></div>
 <div>
   <div>
-- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://devangbramhakshatriya.github.io/)
 
